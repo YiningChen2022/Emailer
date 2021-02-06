@@ -6,7 +6,11 @@ module.exports = {
     "340224844818-dsabjpgiismoqci79affb5uhom8g38ev.apps.googleusercontent.com",
   googleClientSecret: "S6ErjIbeZdE1swUlKrlDTfym",
   mongoURI:
-    "mongodb+srv://yiningchen2020:UGjId4ZGrSFwzkFT@emaily.f0qyh.mongodb.net/testing?retryWrites=true&w=majority",
+    "mongodb+srv://yiningchen2020:UGjId4ZGrSFwzkFT@cluster0.7wrgs.mongodb.net/<dbname>?retryWrites=true&w=majority",
+
+
+
+
   cookieKey: "sdfsfdsfsdfsd",
   stripePublishableKey:
     "pk_test_51HPHxnFnDBJMsfb3MOBVeWMchkNrEWR2WWe2UQ15Yy3tKME9HqIEaX4RTAbT8ihHYlcmL1ct0bTIwIqz30omM2aK00tUZjsLa0",
